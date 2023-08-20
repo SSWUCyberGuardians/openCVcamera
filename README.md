@@ -10,3 +10,6 @@
 ## 선제적 위험 대응 개념도
 ![image](https://github.com/SSWUCyberGuardians/openCVcamera/assets/84945293/2adf5a6f-1239-4beb-8378-7e1018963b84)
 > 출처: 김의명 외, “연속수치지도와 유동인구를 이용한 범죄취약 추정지역 추출,”한국지도학회지, 2019, pp. 59-68. 일부 재이용
+
+## alert system
+![link](https://github.com/SSWUCyberGuardians/openCVcamera.git)
