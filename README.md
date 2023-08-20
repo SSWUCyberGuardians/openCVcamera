@@ -30,3 +30,6 @@ OCR(광학 문자 인식)은 디지털 이미지나 스캔된 문서 내의 문�
 - **이미지 리사이징**: 이미지 크기를 조절하여 처리 시간을 줄임.
 - **Tesseract Configuration**: Tesseract OCR 최적화 설정 적용.
 - **키워드 매칭 로직**: 추출된 텍스트에서 키워드를 식별하고 사용자에게 메시지 출력.
+
+https://www.youtube.com/watch?v=fDAlVDkUd5I&list=PLDlvsX6-adcuqU35leuLXI-I_b-neJ_ww&index=1
+https://www.youtube.com/watch?v=ND_lsFbqjes&list=PLDlvsX6-adcuqU35leuLXI-I_b-neJ_ww&index=2
