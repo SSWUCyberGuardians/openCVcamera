@@ -12,4 +12,4 @@
 > 출처: 김의명 외, “연속수치지도와 유동인구를 이용한 범죄취약 추정지역 추출,”한국지도학회지, 2019, pp. 59-68. 일부 재이용
 
 ## alert system
-![link](https://github.com/SSWUCyberGuardians/openCVcamera.git)
+![link](https://github.com/SSWUCyberGuardians/openCVcamera/blob/2972929880018b17d2b91af2919c6eb0b8951afa/README.md)https://github.com/SSWUCyberGuardians/openCVcamera/blob/2972929880018b17d2b91af2919c6eb0b8951afa/README.md)
